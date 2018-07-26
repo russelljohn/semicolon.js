@@ -7,6 +7,7 @@
 	semicolon.english = function() { return 'semicolon'; };
 	semicolon.korean = function() { return '세미콜론'; };
 	semicolon.german = function() { return 'semikolon'; };
+	semicolon.bengali = function() { return 'সেমিকোলন'; };	
 
 	semicolon.twins = function() { return ';'; }; //greek question mark
 	semicolon.len = function() { return 1; };
